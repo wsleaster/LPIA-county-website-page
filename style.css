@@ -1,0 +1,93 @@
+header {
+  background-color: #C5B358;
+  text-align: left;
+  color: white;
+}
+
+#header {
+  background-color: gold;
+  margin: auto;
+  text-align: left;
+  text-size: 25px;
+  padding: 10px;
+    height: auto;
+}
+
+a {
+  color: black;
+}
+
+body {
+  background-color: darkgreen;
+}
+
+#maps {
+  width: 95%;
+  height: auto;
+  background-color: gold;
+  margin: auto;
+  border: solid black 2px;
+  text-align: center;
+}
+
+#iowaMap {
+  width: 50%;
+  height: auto;
+  margin: 10px;
+  border: solid black 2px;
+}
+
+#aboutUs {
+  width: 95%;
+  height: auto;
+  background-color: gold;
+  margin: auto;
+  border: solid black 2px;
+  text-align: center;
+  align: left;
+  padding: 5%;
+}
+
+div,
+container {
+  background-color: white;
+  width: 90%;
+  height: 20%;
+  margin: 5%;
+  padding: auto;
+  align: left;
+}
+
+#form {
+  width: 95%;
+  height: auto;
+  background-color: gold;
+  margin: auto;
+  border: solid black 2px;
+  text-align: center;
+}
+
+form {
+  display: none;
+}
+
+from,
+input {
+  dislplay: inline-block;
+  vertical-align: baseline;
+  width: 25%;
+  margin: 5px;
+  border: solid black 2px;
+}
+
+footer {
+  background-color: black;
+  text-align: center;
+  color: gold;
+  margin: 10px 0 0 0;
+  padding: 10px;
+}
+
+button:active {
+  color: gold;
+}
